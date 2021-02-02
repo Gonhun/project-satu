@@ -1,0 +1,32 @@
+.loginText {
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.successMessage {
+    color: green;
+    font-weight: bold;
+}
+
+  
+.container-register{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    height: 100vh;
+    /* background-color: cadetblue; */
+}
+
+.card{
+    border: 0px solid rgba(0,0,0,0);
+}
+
+img {
+    width: -moz-fit-content;
+    /* width: fit-content; */
+    height: 100%;
+    position: absolute;
+    left: -8em;
+}
+
